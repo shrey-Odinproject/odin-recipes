@@ -1,0 +1,31 @@
+ul li{
+    background-color:yellow;
+    color:black;
+}
+ol li{
+    background-color:black;
+    color:yellow;
+}
+.odd{
+    font-size: large;
+    color: cyan;
+    background-color: white;
+}
+.o{ /*this was overwritten*/
+    background-color: green;
+    columns: blue;
+}
+.o.third,.o.fourth{
+    background-color: pink;
+}
+h3{
+    font-family: "Tahoma", "sans-serif";
+    font-size: x-large;
+}
+h1{
+    font: xx-large;
+    text-align: center;
+}
+*{
+    background-color: darkolivegreen;
+}
